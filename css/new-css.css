@@ -40,21 +40,24 @@ hr {
 }
 .skills-image-mobile {
   width: 15%;
-  float: right;
-  margin: 2%;
+  float: left;
+  margin-right:2%;
 }
 .skills-image-web {
   width: 15%;
-  float: right;
+  float: left;
+    margin-right:2%;
+}
+.description {
+    margin: 3% 0 0 0;
 }
 .skill-row {
   width: 60%;
   margin: 30px auto 50px auto;
   padding: 30px;
+    border: 1px solid;
+    border-radius: 10%;
   text-align: left;
-  border: solid 1px;
-  border-radius: 20%;
-  border-color: powderblue;
 }
 
 .cloud {
