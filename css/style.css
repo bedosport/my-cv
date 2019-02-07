@@ -1,0 +1,22 @@
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  width: 10%
+}
+body {
+  background-color:#f9ecec;
+}
+#name {
+  color: #66BFFF;
+
+}
+.hello {
+  color: red;
+}
+h3 {
+  color: #66BFBF;
+}
+img {
+
+}
